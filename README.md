@@ -18,7 +18,11 @@ Open Project.dpr, go Project and Build Project.
 # Download
 [Download Here](https://github.com/isekai-id/Valorant-Launcher/releases)
 
-# Legal & Copyright
-Copyright © 2022 Isekai Software Tech. This software freeware and freeuse.
+# Legal
+This project is not affiliated with Riot Games or any of its employees and therefore does not reflect the views of said parties. This is purely a fan-made project to enhance VALORANT's skin inventory management.
 
+Riot Games does not endorse or sponsor this project. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
+
+# Copyright
+Copyright © 2022 Isekai Software Tech. This software freeware and freeuse.
 Copyright © 2022 Riot Games, Inc. Riot Games, VALORANT, and all related logos are trademarks, service marks and/or registered trademarks Riot Games, Inc.
