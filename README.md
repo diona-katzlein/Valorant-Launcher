@@ -18,6 +18,6 @@ Open Project.dpr, go Project and Build Project.
 # Download
 [Download Here](https://github.com/isekai-id/Valorant-Launcher/releases)
 
-# Copyright
+**Legal**
 Copyright © 2022 Isekai Software Tech. This software freeware and freeuse.
 Copyright © 2022 Riot Games, Inc. Riot Games, VALORANT, and all related logos are trademarks, service marks and/or registered trademarks Riot Games, Inc.
